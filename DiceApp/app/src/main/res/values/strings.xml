@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="let_roll">let roll</string>
+</resources>
