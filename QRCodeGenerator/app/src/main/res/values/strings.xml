@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCode Generator</string>
+    <!-- User Feedback -->
+    <string name="error_generate_qrcode">There was an error generating a QRCode.</string>
+</resources>
